@@ -1,3 +1,5 @@
+# ** Update: I eneded up joining a different team.
+
 # JobSearchApp
 Given a list of preferences, return a list of jobs that the candidate might be interested in. The candidate's preferences will persist in the cloud and a new list of unseen-jobs should be returned at login. Pagination is a plus.
 Client: iOS
